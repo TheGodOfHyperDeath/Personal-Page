@@ -4,6 +4,7 @@
   <p>This is my first website ever made.<br/>
   I really love the feeling of indulging myself in the world of video games.<br/>
   So here are some video games that I personally enjoyed.</p>
+  <p>The mobile version may taint the viewing experience.</p>
   <p>
   <li>Undertale</li>
   <li>Batman Arkham Knight</li>
