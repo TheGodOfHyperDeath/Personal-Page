@@ -3,8 +3,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/800px-Anonymous_emblem.svg.png" width="400" height="400" />
 
 
-  <p>This is my first website ever made.</p>
-  <p>So here are some video games that I personally enjoyed.</p>
+  <p>This is my first website ever made.<br/>
+  I really enjoy the feeling of indulging myself in the world of video games.<br/>
+  So here are some video games that I personally enjoyed.</p>
   <li>Undertale</li>
   <li>Batman Arkham Knight</li>
   <li>The witcher 3</li>
@@ -24,9 +25,12 @@
   <img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/bd99bdf104cec85901a27b3adbc8a1ee.jpg" width="200" />
 </p>
 <p float="left">
-  <img src="" width="200" />
-  <img src="" width="200" /> 
-  <img src="" width="200" />
+  <img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/25644b95de790aea9e0cb3d19b17a945.jpg" width="200" />
+  <img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/7e295854e82472655df9eb7d77fa2254.jpg" width="200" /> 
+</p>
+<p float="left">
+  <img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/9fad6725914cafe948673da493a02c5b.jpg" width="200" />
+  <img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/a80b0d78801cbc324e13fa9e0df7e4b5.jpg" width="200" /> 
 </p>
   
 </main>
