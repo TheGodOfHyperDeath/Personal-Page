@@ -4,6 +4,7 @@
   <p>This is my first website ever made.<br/>
   I really love the feeling of indulging myself in the world of video games.<br/>
   So here are some video games that I personally enjoyed.</p>
+  
   <p>
   <li>Undertale</li>
   <li>Batman Arkham Knight</li>
@@ -18,6 +19,7 @@
   <li>Hotline Miami 1&2</li>
   <li>Portal 1&2</li>
   </p>
+  <p>Click the posters to view the official steam page of the game.</p>
   <p float="left">
   <a href="https://store.steampowered.com/app/391540/Undertale/"><img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/1b3b556faf900e247d6d28effca15413.jpg" width="200" />
   <a href="https://store.steampowered.com/app/208650/Batman_Arkham_Knight/"><img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/f84188cb2659a5c8c875d7f0e9fc847c.jpg" width="200" /> 
