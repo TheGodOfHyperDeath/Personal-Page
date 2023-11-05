@@ -1,5 +1,5 @@
 <h1>Personal Page</h1>
-<main>
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Anonymous_emblem.svg/800px-Anonymous_emblem.svg.png" width="400" height="400" />
   <p>This is my first website ever made.<br/>
   I really love the feeling of indulging myself in the world of video games.<br/>
@@ -48,4 +48,4 @@
   <a href="https://store.steampowered.com/app/620/Portal_2/"><img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/1b3588ca581a6835f4d8f4aa8d796c4b.jpg" width="200" /> 
 
   
-</main>
+
